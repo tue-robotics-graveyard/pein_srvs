@@ -1,0 +1,6 @@
+bool status
+pein_msgs/ROI roi
+---
+string message
+uint16 error
+
